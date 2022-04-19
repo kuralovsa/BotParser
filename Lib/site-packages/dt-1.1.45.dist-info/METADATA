@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: dt
+Version: 1.1.45
+Summary: Dynatrace API Python client
+Home-page: https://github.com/dlopes7/dynatrace-rest-python
+Author: David Lopes
+Author-email: davidribeirolopes@gmail.com
+License: UNKNOWN
+Project-URL: Issue Tracker, https://github.com/dlopes7/dynatrace-rest-python/issues
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Topic :: Software Development
+Requires-Python: >=3.6
+License-File: LICENSE
+Requires-Dist: requests (>=2.22)
+
+Dynatrace API Python client
+
